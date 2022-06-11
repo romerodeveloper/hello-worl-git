@@ -1,1 +1,6 @@
-soy un readme.
+# Cabecera H1
+## Cabecera H2
+### Cabecera H3
+##### Cabecera H5
+###### Cabecera H6
+soy un readme. asdsad
